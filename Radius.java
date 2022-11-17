@@ -1,9 +1,3 @@
-/*
- * Andree Hage
- * 11/7/2022
- * 4.1 Program that calculates the area of a pentagon
- */
-
 import java.util.Scanner;
 
 public class Radius{
